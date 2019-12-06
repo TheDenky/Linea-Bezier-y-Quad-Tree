@@ -4,3 +4,4 @@ SCREENSHOT DE LINEA DE BEZIER
 
 
 SCREENSHOT DE QUADTREE
+![CapturaQuadTree](https://user-images.githubusercontent.com/55816360/70296556-12cc7800-17b9-11ea-94d3-5b6b580901a9.PNG)
